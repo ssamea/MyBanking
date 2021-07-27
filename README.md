@@ -41,4 +41,4 @@ open banking api를 활용한 내 계좌 관리 앱
 
 # 구현 화면
 ![1](https://user-images.githubusercontent.com/49589578/127088566-38c8dba1-c2bc-4f86-906e-ba4c2350becf.JPG)
-![2](https://user-images.githubusercontent.com/49589578/127088567-6c2c172d-40a1-4d47-a3ef-df122cfc7166.JPG)
+
